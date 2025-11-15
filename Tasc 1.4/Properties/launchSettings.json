@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tasc 1.4": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
