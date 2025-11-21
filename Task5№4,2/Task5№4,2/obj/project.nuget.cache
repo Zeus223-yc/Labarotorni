@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GXm6dd74ods=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Babron\\source\\repos\\Task5№4,2\\Task5№4,2\\Task5№4,2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Babron\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
