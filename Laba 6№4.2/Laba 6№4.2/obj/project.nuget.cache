@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K1HEjhpIgGw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Babron\\source\\repos\\Laba 6№4.2\\Laba 6№4.2\\Laba 6№4.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Babron\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
